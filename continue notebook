@@ -1,0 +1,19 @@
+in this file we will learn different things but I'll make sure they're orgnized and understand able.
+we have some datas at python and we call them python data types;for example:str,int,float,complex,etc.
+today I'll discribe list,dictionary and tuple which they're also from data types.(we're not gonna talk about tuple;maybe in some other files)
+LIST :for creating a list we may use [] and we will write values on that.
+A EXAMPLE FOR LIST :        x=["rose","jina",12.8,'5']            x[1]         it'll show : "jina"     x[3]     it'll show : '5'
+for choosing and showing an elemant from list we need to print the index of that elemant(srats from 0).
+
+DICTIONARY(dict) :for writing a dict we should use {} and we can write keys and values or we can create a list under the dict.
+A EXAMPLE FOR DICT :         f={"name":["frank","scott","stephen"] ,
+                                "age":[17,45,8,91] ,
+                                "float":[3.9,8.56]                 print(f)
+for showing elemants we should write like this :      f["name"][0]               it'll show:"frank"             f["name"][1]         it'll show:"scott"
+                          f["age"][2]           it'll show:8               f["age"][3]            it'll show:91
+                          f["float"][0]         it'll show:3.9             f["float"][1]          it'll show:8.56
+so basicly we should write the index of that elemant.
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+THE USAGE OF (FOR)
