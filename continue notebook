@@ -17,3 +17,46 @@ so basicly we should write the index of that elemant.
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 
 THE USAGE OF (FOR)
+to place a bet we can use FOR.
+in this example you will understand better how it works:
+           for step in range(0,5):
+                  print(step)                                 it will show : 0 1 2 3 4       and if we just write 5 on () the answer will be the same.
+           for step in range(10,20,2):                it will show :10 12 14 16 18
+       
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+THE USAGE OF (WHILE)
+we cn also use WHILE to place a bet.
+EXAMPLES FOR WHILE :                                        x=0
+                                                            while x<5 :
+                                                                print(x)
+                                                                x+=1                                   will show : 0 1 2 3 4
+                                                                
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
++++++a point that I wanna mention is to power a number we just need to go with ** .
+for example:                 x=3
+                             x=x**2
+                             print(x)                                   will show : 9
+ +++++to count the quotient of a mathematical problem we can use % .
+ the example:               g=10 % 3
+                            print(g)                                    will show : 1
+ +++++to round some math problems we can easely use // .
+ +++++to show something against and deny we can go like:               if x!=y:           or          not x==y:                           
+               for example:             v=5          if v!=10:         print(v)                   will show :5              
+                             
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
